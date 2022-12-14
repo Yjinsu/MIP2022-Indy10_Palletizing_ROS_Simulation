@@ -28,8 +28,8 @@ mkdir -p indy_ws/src
 
 ### 2. src 파일 다운로드 & Catkin_make
 
-본 Repository에 업로드 되어 있는, indy10 폴더 내 src 파일 전체를 다운로드합니다.
-- [DownLoad Link](https://github.com/Yjinsu/MIP-Robot_Control_using_ROS/tree/main/Indy10/src)
+본 Repository에 업로드 되어 있는, src 폴더 내부의 파일 전체를 다운로드합니다.
+- [DownLoad Link](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/tree/main/src)
 
 파일 다운로드 이후, **1. 작업 공간 생성** 을 통해 만든 src 폴더 안에 다운로드한 파일 전체를 옮겨줍니다.
 
