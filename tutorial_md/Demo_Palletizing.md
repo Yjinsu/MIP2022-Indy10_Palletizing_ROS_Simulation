@@ -7,7 +7,8 @@
 데모 구현을 위한 사전 환경 설정은, 아래의 링크를 참조하십시오.
 
 - Indy10 초기 설정 : [Click This Link](https://github.com/chaochao77/ROS_neuromeka_tutorial)
-- Depth Camera Setting : [Click This Link](https://github.com/Yjinsu/MIP-Robot_Control_using_ROS/blob/main/Depth_Camera_Manual.md)
+- Indy10 workspace Setting : [Click This Link](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/blob/main/tutorial_md/Manual_Indy10.md)
+- Depth Camera Setting : [Click This Link](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/blob/main/tutorial_md/Manual_Depth_Camera.md)
 
 
 <br>
