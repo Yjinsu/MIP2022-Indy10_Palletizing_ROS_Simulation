@@ -43,7 +43,7 @@ Linux 환경에서 ROS의 Rviz, Gazebo, Moveit 패키지를 활용하여 프로�
   * [USB Camera](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/blob/main/tutorial_md/Manual_Webcam.md)
   
 * ### Tutorial: Classification & Pick-Place (Demo)
-  * [Reference Link](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/blob/main/tutorial_md/Manual_Webcam.md)
+  * [Reference Link](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/blob/main/tutorial_md/Demo_Palletizing.md)
 
 * ### TroubleShooting
   * [Reference Link](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/blob/main/tutorial_md/ROS_Trouble_Shooting.md)
