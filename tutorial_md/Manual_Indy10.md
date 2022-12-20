@@ -136,5 +136,5 @@ roslaunch indy10_gazebo indy10_moveit_gazebo.launch
 
 ```
 # Example
-rosrun indy_driver Robot_Controller.py
+rosrun indy_driver TU_command.py
 ```
