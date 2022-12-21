@@ -13,9 +13,7 @@
 
 본 프로젝트에서 UR5e를 사용하기 위해서는, ROS 설치가 선행되어야 합니다.
 
-[Click this link
-
-[]()
+**[Click this link](https://github.com/Yjinsu/MIP2022-Indy10_Palletizing_ROS_Simulation/blob/main/tutorial_md/Maunal_ROS.md)**
 
 <br>
 
