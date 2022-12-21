@@ -2,7 +2,7 @@
 
 작성자 : 21700469 유진수
 
-참조 : https://github.com/chaochao77/ROS_neuromeka_tutorial
+
 
 <br>
 
